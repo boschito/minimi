@@ -1,0 +1,2 @@
+# minimi
+Proiecte
